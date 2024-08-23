@@ -1,4 +1,4 @@
-![logo](https://github.com/raviraj-01/raviraj-01/blob/main/Screenshot%20(1).png)
+![logo](https://github.com/raviraj-01/raviraj-01/blob/main/Screenshot%20(2).png)
 <h1 align="center">Hi 👋, I'm Ravi Raj</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
