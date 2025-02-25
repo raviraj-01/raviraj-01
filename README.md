@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviraj-01&label=Profile%20views&color=0e75b6&style=flat" alt="raviraj-01" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/raviraj-01/Ravi-Raj_projects](https://github.com/raviraj-01/Ravi-Raj_projects)
+- 👨‍💻 All of my projects are available at [https://github.com/raviraj-01/Language-based-codes](https://github.com/raviraj-01/Language-based-codes)
 
 - 📫 How to reach me **ravi.rajj1920@gmail.com**
 
