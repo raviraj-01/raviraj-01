@@ -1,12 +1,9 @@
-![logo](https://github.com/raviraj-01/raviraj-01/blob/main/Screenshot%20(2).png)
 <p align="center">
   <img src="https://github.com/raviraj-01/raviraj-01/blob/main/Screenshot%20(2).png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ravi Raj</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4f726b05e95c515201c81c1f36fcce49e77ded18bc52ecc43d978e0964f2244d/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 <p align="right">
   <img alt="coding" width="400" src="https://camo.githubusercontent.com/4f726b05e95c515201c81c1f36fcce49e77ded18bc52ecc43d978e0964f2244d/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
